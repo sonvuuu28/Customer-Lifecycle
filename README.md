@@ -100,6 +100,7 @@ olist-customer-lifecycle/
 │   ├── 📁 n8n
 │   │   └── 📘 knowledege_file.docx
 │   ├── 📁 powerBI
+│   ├── 📁 report
 │   └── 📁 streamlit
 ├── 📝 README.md
 └── 📄 requirements.txt
