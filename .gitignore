@@ -1,0 +1,3 @@
+# Ignore hidden_folder completely
+hidden_folder/
+hidden_folder/*
